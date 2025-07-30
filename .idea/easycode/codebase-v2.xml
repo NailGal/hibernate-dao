@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="com.obiscr.chatgpt.settings.EasyCodeState">
+    <option name="projectFiles" value="$PROJECT_DIR$/src/main/java/ru/netology/controller/PersonController.java;C:/Users/Admin/OpenideProjects/hibernate-dao/src/main/java/ru/netology/domain/Person.java;C:/Users/Admin/OpenideProjects/hibernate-dao/src/main/java/ru/netology/domain/PersonId.java;C:/Users/Admin/OpenideProjects/hibernate-dao/src/main/java/ru/netology/repository/PersonRepository.java;C:/Users/Admin/OpenideProjects/hibernate-dao/src/main/java/ru/netology/DaoHibernateApplication.java;C:/Users/Admin/OpenideProjects/hibernate-dao/src/main/java/ru/netology/SecurityConfig.java" />
+  </component>
+</project>
